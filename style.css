@@ -4,4 +4,9 @@
     background-position:center;
     background-size:cover;
 }
+#myCanvas
+{
+    boder: ridge;
+    boder_color: drakgreen;
+}
 
